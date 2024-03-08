@@ -3,6 +3,6 @@ Bay is a small payment processing company. The business team is interested in fo
 
 The business team has provided you with the following datasets:
 
-transactions
-stores
-users
+1. transactions
+2. stores
+3. users
